@@ -1,0 +1,3 @@
+# python-docker-template/requirements.txt
+# Add common packages here
+requests
